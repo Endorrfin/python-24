@@ -1,0 +1,7 @@
+node_modules/
+dist
+.tmp
+.idea/
+.idea/inspectionProfiles/
+.idea/Project_Default.xml
+.DS_Store
