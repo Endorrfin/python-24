@@ -8,7 +8,8 @@ def format_data(account):
     account_name = account['name']
     account_descr = account['description']
     account_country = account['country']
-    return f"{account_name}, a {account_descr}, from {account_country}"
+    country_flag = account['country_flag']
+    return f"{account_name}, a {account_descr}, from {account_country} | {country_flag}"
 
 def check_answer(user_guess, a_followers, b_followers):
     """Take a user's guess and the follower counts and returns and returns if they got it right."""
