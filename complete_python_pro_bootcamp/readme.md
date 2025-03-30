@@ -1,4 +1,3 @@
-![Logo](https://www.google.com.ua/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F207405%2Fpython&psig=AOvVaw3U9KJrGK1OhPHDIP-DcHea&ust=1742763329815000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiBsb7JnowDFQAAAAAdAAAAABAD)
 
 # 100 Days of Code: The Complete Python Pro Bootcamp
 ## CONTENT
