@@ -26,5 +26,5 @@ ____
 **Day 18:** Turtle the graphical user interface (GUI) <br/>
 **Day 19:** Instances, state and higher order function <br/>
 **Day 20:** Build the snake game Part 1: animation & coordinates <br/>
-**Day 20:** Build the snake game Part 2: inheritance & list slicing <br/>
+**Day 21:** Build the snake game Part 2: inheritance & list slicing <br/>
 
