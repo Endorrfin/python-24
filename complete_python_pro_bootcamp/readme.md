@@ -1,7 +1,7 @@
 
 # 100 Days of Code: The Complete Python Pro Bootcamp
 ## CONTENT
-### 🔺 `Beginner`
+### 🔺 `BEGINNER`
 ___
 **Day 1**: Working with variables in python to manage data <br/>
 **Day 2**: Understanding data types and how to manipulate strings <br/>
@@ -18,7 +18,7 @@ ___
 **Day 13:** Debugging: how to find and fix errors in your code <br/>
 **Day 14:** Higher lower game project <br/>
 
-### 🔺 `Intermediate`
+### 🔺 `INTERMEDIATE`
 ____
 **Day 15:** Local development environment setup & the coffee machine <br/>
 **Day 16:** Object oriented programming (OOP) <br/>
