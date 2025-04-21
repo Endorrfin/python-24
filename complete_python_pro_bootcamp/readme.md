@@ -28,4 +28,5 @@ ____
 **Day 20:** Build the snake game Part 1: animation & coordinates <br/>
 **Day 21:** Build the snake game Part 2: inheritance & list slicing <br/>
 **Day 22:** Build Pong: The famous Arcade game <br/>
+**Day 24:** Files directories & paths <br/>
 
