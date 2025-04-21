@@ -27,4 +27,5 @@ ____
 **Day 19:** Instances, state and higher order function <br/>
 **Day 20:** Build the snake game Part 1: animation & coordinates <br/>
 **Day 21:** Build the snake game Part 2: inheritance & list slicing <br/>
+**Day 22:** Build Pong: The famous Arcade game <br/>
 
