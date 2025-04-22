@@ -1,8 +1,31 @@
-node_modules/
-dist
-.tmp
-.idea/
+# IDE'S project files
 .idea
+.idea/
 .idea/inspectionProfiles/
 .idea/Project_Default.xml
+.vscode
+.sass-cache
+
+# Mac DS_Store Files
 .DS_Store
+
+# Node packages
+node_modules
+node_modules/
+
+# Build version
+dist
+
+# Windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# Large output files
+build/output/*
+
+# machine-specific configuration files
+.env
+.tmp
+config/dev-env.conf
