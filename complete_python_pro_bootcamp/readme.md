@@ -19,7 +19,7 @@ ___
 [**Day 14:** Higher lower game project](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2014%20Higher%20or%20lower%20followers%20game/Higher%20or%20Lower%20Project) <br/>
 
 ### 🔺 `INTERMEDIATE`
-____
+***
 [**Day 15:** Local development environment setup & the coffee machine](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2015%20Coffee%20machine%20project/Coffee%20Machine%20Project) <br/>
 [**Day 16:** Object oriented programming (OOP)](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2016%20OOP%20Coffee%20machine) <br/>
 [**Day 17:** The quiz project & the benefits of OOP](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2017%20Benefits%20of%20OOP%20Quiz%20project) <br/>
@@ -46,3 +46,6 @@ ____
 **Day 38:** Workout tracking using Google sheets<br/>
 **Day 39:** Capstone part I: Flight deal finder<br/>
 **Day 40:** Capstone part II: Flight club<br/>
+
+
+---
