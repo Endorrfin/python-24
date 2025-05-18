@@ -31,7 +31,7 @@ ___
 [**Day 23:** The Turtle crossing capstone project](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2023%20Turtle%20crossing%20capstone%20project) <br/>
 [**Day 24:** Files directories & paths](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2024%20Files%20directories%20%26%20paths) <br/>
 [**Day 25:** Working with CSV data & the Pandas library](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2025%20working%20with%20CSV%20data%20and%20the%20Pandas%20library)<br/>
-**Day 26:** List comprehension and the NATO alphabet<br/>
+[**Day 26:** List comprehension and the NATO alphabet](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2026%20List%20comprehension%20%26%20the%20NATO%20alphabet)<br/>
 **Day 27:** Tkinter args kwargs and creating GUI programs<br/>
 **Day 28:** Tkinter dynamic typing and the Pomodoro GUI application<br/>
 **Day 29:** Builder a password manager GUI app with tkinter<br/>
