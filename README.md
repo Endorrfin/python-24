@@ -1,4 +1,3 @@
-# 🟦 python-24: Miscellaneous python projects
 
 # 100 Days of Code: The Complete Python Pro Bootcamp
 ## CONTENT
@@ -20,7 +19,7 @@ ___
 [**Day 14:** Higher lower game project](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2014%20Higher%20or%20lower%20followers%20game/Higher%20or%20Lower%20Project) <br/>
 
 ### 🔺 `INTERMEDIATE`
-____
+***
 [**Day 15:** Local development environment setup & the coffee machine](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2015%20Coffee%20machine%20project/Coffee%20Machine%20Project) <br/>
 [**Day 16:** Object oriented programming (OOP)](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2016%20OOP%20Coffee%20machine) <br/>
 [**Day 17:** The quiz project & the benefits of OOP](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2017%20Benefits%20of%20OOP%20Quiz%20project) <br/>
@@ -31,8 +30,8 @@ ____
 [**Day 22:** Build Pong: The famous Arcade game](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2022%20Build%20pong%3A%20the%20famous%20Arcade%20game) <br/>
 [**Day 23:** The Turtle crossing capstone project](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2023%20Turtle%20crossing%20capstone%20project) <br/>
 [**Day 24:** Files directories & paths](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2024%20Files%20directories%20%26%20paths) <br/>
-**Day 25:** Working with CSV data & the Pandas library<br/>
-**Day 26:** List comprehension and the NATO alphabet<br/>
+[**Day 25:** Working with CSV data & the Pandas library](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2025%20working%20with%20CSV%20data%20and%20the%20Pandas%20library)<br/>
+[**Day 26:** List comprehension and the NATO alphabet](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2026%20List%20comprehension%20%26%20the%20NATO%20alphabet)<br/>
 **Day 27:** Tkinter args kwargs and creating GUI programs<br/>
 **Day 28:** Tkinter dynamic typing and the Pomodoro GUI application<br/>
 **Day 29:** Builder a password manager GUI app with tkinter<br/>
@@ -47,4 +46,4 @@ ____
 **Day 38:** Workout tracking using Google sheets<br/>
 **Day 39:** Capstone part I: Flight deal finder<br/>
 **Day 40:** Capstone part II: Flight club<br/>
-
+---
