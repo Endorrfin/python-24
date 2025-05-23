@@ -9,7 +9,7 @@ class Player(Turtle):
     def __init__(self):
         super().__init__()
         self.shape('turtle')
-        self.color('DarkSlateGray')
+        self.color('Green')
         self.penup()
         self.go_to_start()
         self.setheading(90)
