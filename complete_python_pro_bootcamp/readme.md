@@ -34,10 +34,10 @@ ___
 [**Day 26:** List comprehension and the NATO alphabet](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2026%20List%20comprehension%20%26%20the%20NATO%20alphabet)<br/>
 [**Day 27:** Tkinter args kwargs and creating GUI programs](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2027%20Tkinter%20args%20kwargs%20and%20creating%20GUI%20programs)<br/>
 [**Day 28:** Tkinter dynamic typing and the Pomodoro GUI application](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2028%20Tkinter%20dynapic%20typing%20%26%20pomidoro%20GUI%20app/pomodoro%20app)<br/>
-**Day 29:** Builder a password manager GUI app with tkinter<br/>
-**Day 30:** Errors exceptions and JSON data: improving the password<br/>
-**Day 31:** Flash card app capstone project<br/>
-**Day 32:** Send email (smtplib) & manage dates (datetime)<br/>
+[**Day 29:** Builder a password manager GUI app with tkinter](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2029%20Building%20password%20manager%20GUI%20app%20with%20Tkinter)<br/>
+[**Day 30:** Errors exceptions and JSON data: improving the password](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2030%20Errors%20exceptions%20%26%20JSON%20data)<br/>
+[**Day 31:** Flash card app capstone project](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2031%20Flash%20card%20app/Flash-card)<br/>
+[**Day 32:** Send email (smtplib) & manage dates (datetime)](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2032%20Send%20email%20(smtplib)%20%26%20manage%20dates%20(datetime))<br/>
 **Day 33:** API endpoints & API parameters - ISS overhead notifier<br/>
 **Day 34:** API practice - creating a GUI quiz app<br/>
 **Day 35:** Keys authentication & environment variables: send sms<br/>
@@ -46,6 +46,16 @@ ___
 **Day 38:** Workout tracking using Google sheets<br/>
 **Day 39:** Capstone part I: Flight deal finder<br/>
 **Day 40:** Capstone part II: Flight club<br/>
+**Day 41:** Web foundation: introduction to HTML<br/>
+**Day 42:** Web foundation: intermediate HTML<br/>
+**Day 43:** Web foundation: introduction to CSS<br/>
+**Day 44:** Web foundation: intermediate CSS<br/>
+**Day 45:** Web scraping with beautiful Soup<br/>
+**Day 46:** Create a spotify playlist using the musical time machine<br/>
+**Day 47:** Create an automated amazon price tracker<br/>
+**Day 48:** Selenium webdriver browser and game playing bot<br/>
+**Day 49:** Automating job application on LinkedIn<br/>
+**Day 50:** Auto tinder swiping bot<br/>
 
 
 ---
