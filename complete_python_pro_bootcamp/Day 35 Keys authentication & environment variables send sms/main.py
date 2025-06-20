@@ -3,6 +3,7 @@ from twilio.rest import Client
 
 # ⚪️ Weather API: https://openweathermap.org/
 # 🔹Weather now: https://www.ventusky.com/
+# 🔸Latitude & Longitude finder: https://www.latlong.net/
 
 # 🔴TRIAL ACCESS to SERVICE
 OWM_Endpoint = 'https://api.openweathermap.org/data/2.5/forecast'
