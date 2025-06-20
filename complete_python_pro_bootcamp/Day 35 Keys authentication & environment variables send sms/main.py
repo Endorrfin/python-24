@@ -11,6 +11,7 @@ api_key = 'bc0b331f174eaf2c2a3c0e332035c7ef'
 
 # 🟣SMS SERVICE: https://www.twilio.com/en-us
 # 🔴TRIAL ACCESS to SERVICE
+import os
 account_sid = 'AC357826531379b5588410dfc6a348ab6b'
 auth_token = 'e772d9fdeec56c25e0db284ed79a5367'
 
