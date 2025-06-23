@@ -38,9 +38,9 @@ ___
 [**Day 30:** Errors exceptions and JSON data: improving the password](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2030%20Errors%20exceptions%20%26%20JSON%20data)<br/>
 [**Day 31:** Flash card app capstone project](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2031%20Flash%20card%20app/Flash-card)<br/>
 [**Day 32:** Send email (smtplib) & manage dates (datetime)](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2032%20Send%20email%20(smtplib)%20%26%20manage%20dates%20(datetime))<br/>
-**Day 33:** API endpoints & API parameters - ISS overhead notifier<br/>
-**Day 34:** API practice - creating a GUI quiz app<br/>
-**Day 35:** Keys authentication & environment variables: send sms<br/>
+[**Day 33:** API endpoints & API parameters - ISS overhead notifier](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2033%20API%20endpoints%20%26%20API%20parameters%20ISS%20overhead%20notifier)<br/>
+[**Day 34:** API practice - creating a GUI quiz app](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2034%20API%20practice%20-%20creating%20a%20GUI%20quiz%20app)<br/>
+[**Day 35:** Keys authentication & environment variables: send sms](https://github.com/Endorrfin/python-24/tree/main/complete_python_pro_bootcamp/Day%2035%20Keys%20authentication%20%26%20environment%20variables%20send%20sms)<br/>
 **Day 36:** Stock trading news alert project<br/>
 **Day 37:** Habit tracking project: API post requests & headers<br/>
 **Day 38:** Workout tracking using Google sheets<br/>
